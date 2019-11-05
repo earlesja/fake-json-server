@@ -18,22 +18,22 @@
         {
             "id": 2,
             "title": "title2",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
             "id": 3,
             "title": "title3",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis.",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis."
         },
         {
             "id": 4,
             "title": "title4",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis. Vestibulum orci urna, dictum et porttitor quis.",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis. Vestibulum orci urna, dictum et porttitor quis."
         },
         {
             "id": 5,
             "title": "title5",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis.",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum orci urna, dictum et porttitor quis."
         }
     ]
 }
